@@ -1,0 +1,7 @@
+1. ctrl + alt + T -> open terminal
+2. pwd -> for find where you are
+3. cd the name of the file -> to open the file 
+4. cd .. -> for back to the previous file
+5. mkdir -> make direction for open a new file
+6. ls -> for see all files
+7. rm -r the name of the file -> for delete the file or rm -rf the name of the file -> for deleting the file without confirmation
